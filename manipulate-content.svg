@@ -1,4 +1,4 @@
-<iframe height="100%" width="100%">
+<iframe height="100%" width="100%" sandbox="allow-same-origin allow-scripts allow-forms">
  <svg>
  <!--
  this will redirect to the Claude Login Page
