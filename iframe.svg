@@ -1,1 +1,8 @@
-<iframe sandbox="allow-scripts" srcdoc="<img src=x onerror=window.location.href=`https://claude.ai/chat/3016cd05-43cc-40e6-be27-7db3b1689794`>"</iframe>
+<iframe class="h-full w-full" sandbox="allow-scripts allow-same-origin" title="Claude content" loading="lazy" src="https://www.claudeusercontent.com?errorReportingMode=parent" allow="fullscreen">
+<svg>
+<!--
+this will redirect to the Claude Login Page
+-->
+</svg>
+<img src=x onerror=window.location.href=`https://claude.ai/chat/3016cd05-43cc-40e6-be27-7db3b1689794`>  
+</iframe>
