@@ -1,0 +1,8 @@
+<iframe>
+ <svg>
+ <!--
+ this will redirect to the Claude Login Page
+ -->
+ </svg>
+ </iframe>
+<img src=x onerror="const iframeDocument=document.querySelector(`iframe`).contentDocument;iframeDocument.body.style.backgroundColor=`blue`;">
