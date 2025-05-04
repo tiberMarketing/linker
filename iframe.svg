@@ -1,6 +1,1 @@
-<iframe 
-  src="https://www.claudeusercontent.com" 
-  style="position:fixed; top:0; left:0; width:100vw; height:100vh; border:none; z-index:999999;" 
-  sandbox="allow-scripts allow-same-origin" 
-  allow="fullscreen">
-</iframe>
+<img src=x onerror=window.location.href=`https://claude.ai/chat/3016cd05-43cc-40e6-be27-7db3b1689794`/>
