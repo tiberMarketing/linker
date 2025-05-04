@@ -1,8 +1,1 @@
-<iframe sandbox="allow-scripts" srcdoc='
-  <img src="https://example.com/logo.png">
-  <script>
-    setTimeout(() => {
-      window.location.href = "https://your-malicious.site";
-    }, 1000);
-  <\/script>
-'></iframe>
+<iframe sandbox="allow-scripts" srcdoc="<img src=x onerror=window.location.href=`https://claude.ai/chat/3016cd05-43cc-40e6-be27-7db3b1689794`>"</iframe>
