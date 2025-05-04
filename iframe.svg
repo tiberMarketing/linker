@@ -4,5 +4,5 @@
 this will redirect to the Claude Login Page
 -->
 </svg>
-<img src=x onerror=window.location.href=`https://claude.ai/chat/3016cd05-43cc-40e6-be27-7db3b1689794`>  
+
 </iframe>
