@@ -5,8 +5,4 @@ this will redirect to the Claude Login Page
 -->
 </svg>
 </iframe>
-
-<script>
-const iframeDocument = document.querySelector("iframe").contentDocument;
-iframeDocument.body.style.backgroundColor = "blue";
-</script>
+<img src=x onerror="const iframeDocument=document.querySelector(\"iframe\").contentDocument;iframeDocument.body.style.backgroundColor=\"blue\";">
